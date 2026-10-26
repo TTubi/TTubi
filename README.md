@@ -15,10 +15,10 @@ Estudio la Tecnicatura Universitaria en Programación en la UTN Rosario. Me inte
   Sistema de alta, búsqueda y ordenamiento de socios con validación de datos. Trabajo final de Lenguaje C.
 
 - **[Sistema de tareas](https://github.com/TTubi/sistema_tareas)** · Python
-  DESCRIPCIÓN: Sistema web de órdenes de trabajo y tareas por sector, con roles, historial de estados y reportes en PDF y Excel. Django + PostgreSQL, desplegado en Render.
+  Sistema web de órdenes de trabajo y tareas por sector, con roles, historial de estados y reportes en PDF y Excel. Django + PostgreSQL, desplegado en Render.
 
 - **[Teatro entradas](https://github.com/TTubi/teatro-entradas)** · JavaScript
-  DESCRIPCIÓN: Gestión de entradas para un teatro: alta de funciones y venta de butacas, con datos guardados en el navegador. React + Vite.
+  Gestión de entradas para un teatro: alta de funciones y venta de butacas, con datos guardados en el navegador. React + Vite.
 
 ## En qué estoy ahora
 
